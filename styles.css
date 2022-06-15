@@ -1,0 +1,16 @@
+header {
+  text-align: center;
+  background: red;
+}
+
+div{
+  margin: 5px;
+  padding: 5px;
+  border: 1px solid black;
+  background: gray;
+  color: white;
+}
+
+form {
+  text-align: center;
+}
