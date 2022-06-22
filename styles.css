@@ -3,6 +3,29 @@ header {
   background: red;
 }
 
+.title {
+  text-align: center;
+}
+
+.gris {
+  color: gray;
+}
+
+.verde {
+  color: #008000;
+}
+
+.amarillo {
+  color: yellow;
+}
+
+body {
+  background-color: pink;
+
+}
+
+
+/*
 div{
   margin: 5px;
   padding: 5px;
